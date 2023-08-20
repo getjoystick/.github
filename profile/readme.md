@@ -6,6 +6,8 @@ Joystick is a modern remote configuration platform tailored for games and apps. 
 
 We put dynamic content and remote configs at your finger-tips with modern tools to manage versioning, multiple environments, schema protection, webhooks, change review, permissions, and much more.
 
+![Joystick](https://github.com/getjoystick/.github/blob/main/img/joystick-platform.png?raw=true)
+
 ## Don’t settle for waiting. Make changes and see it live in your app or game within seconds.
 
 - Push changes live instantly to any app, game or site, safely without code merges, builds and deploys.
@@ -18,5 +20,5 @@ We put dynamic content and remote configs at your finger-tips with modern tools 
 
 - [Get an Account](https://app.getjoystick.com/onboarding)
 - [See all the Features](https://www.getjoystick.com/features)
-- [API Docs and SDKs](https://docs.joystick.com)
+- [API Docs and SDKs](https://docs.getjoystick.com)
 
