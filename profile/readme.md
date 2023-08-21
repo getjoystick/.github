@@ -1,6 +1,6 @@
-![Joystick](https://github.com/getjoystick/.github/blob/main/img/joystick-cover-image.jpg?raw=true)
+![Joystick Remote Config Hero](https://github.com/getjoystick/.github/assets/127026916/8dc56915-259c-476a-9a11-c0e3ddec6d7f)
 
-# Joystick empowers your team to action insights instantly.
+# Joystick - Modern Remote Configuration Platform.
 
 Joystick is a modern remote configuration platform tailored for games and apps. Empower your live-ops team, product managers, and studio executives with real-time adaptability, boosting player engagement and retention. Decentralize decision-making, iterate faster, and keep your audience captivated with Joystick's agile solution. Choose Joystick and fundamentally transform the way you evolve your mobile gaming experience.
 
