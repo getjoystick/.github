@@ -18,6 +18,7 @@ We put dynamic content and remote configs at your finger-tips with modern tools 
 
 ## Supported Features
 
+- 📝 Full JSON: Go beyond feature flags. Use full JSON remote configs for content, data, flags or parameters.
 - 🔀 Multiple environments: natively multi-environment with easy to use sync and diff tools.
 - 🎯 Segmentation: Deliver different parameters depending on any custom segmentation. 
 - 🆎 AB Testing: AB test any parameter with consistent user bucketing; users can be in the same test groups across multiple tests.
@@ -25,9 +26,12 @@ We put dynamic content and remote configs at your finger-tips with modern tools 
 - ⏰️ Scheduled Changes: Schedule content updates so you don't have to constantly manually make changes at a particular hour.
 - ⚙️ Variables and Params: Store and instantly update any parameters for your game or app.
 - 🚩 Classic Feature Flags: Simple feature flag configs to turn things on or off.
+- 🗄️ Automatic Revision History: Keep a history of changes and audit log; and instantly revert back to previous versions.
+- 🔒 Schema Protection: Protect your configs with schemas to ensure you do not get bad inputs.
 - 🔗 Webhooks: integrate with other services, Slack, Discord and more
 - 🔢 Google Sheets Integration: One-click push from Google Sheets to Joystick so anyone on the team can easily make updates.
 - 👥 Permissions and Access Control: Protect your critical configs and production environments. 
+- 📱 SDKs for Remote Config: Unity, Csharp, Javascript/Typescript, PHP, Python, Unreal Engine
 
 ## Get started with Joystick Today
 
