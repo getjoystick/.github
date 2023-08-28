@@ -11,10 +11,23 @@ We put dynamic content and remote configs at your finger-tips with modern tools 
 ## Don’t settle for waiting. Make changes and see it live in your app or game within seconds.
 
 - Push changes live instantly to any app, game or site, safely without code merges, builds and deploys.
-- Go far beyond simple key:value pairs or feature flagging.
-- One REST API for all of configuration content your game or app.
+- Use full JSON. Go far beyond simple key:value pairs or feature flagging.
+- One REST API for all configuration content of your game or app.
 - Organize, track, update and sync dynamic configs across multiple environments.
 - A full suite of features, including Webhooks, automatic revision history, transparency and workflow integrations.
+
+## Supported Features
+
+- 🔀 Multiple environments: natively multi-environment with easy to use sync and diff tools.
+- 🎯 Segmentation: Deliver different parameters depending on any custom segmentation. 
+- 🆎 AB Testing: AB test any parameter with consistent user bucketing; users can be in the same test groups across multiple tests.
+- ⏳ Staged Deployments: Rollout changes over time in increments as small as 0.1% of audience. 
+- ⏰️ Scheduled Changes: Schedule content updates so you don't have to constantly manually make changes at a particular hour.
+- ⚙️ Variables and Params: Store and instantly update any parameters for your game or app.
+- 🚩 Classic Feature Flags: Simple feature flag configs to turn things on or off.
+- 🔗 Webhooks: integrate with other services, Slack, Discord and more
+- 🔢 Google Sheets Integration: One-click push from Google Sheets to Joystick so anyone on the team can easily make updates.
+- 👥 Permissions and Access Control: Protect your critical configs and production environments. 
 
 ## Get started with Joystick Today
 
