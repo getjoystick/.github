@@ -33,7 +33,7 @@ We put dynamic content and remote configs at your finger-tips with modern tools 
 - 👥 Permissions and Access Control: Protect your critical configs and production environments. 
 - 📱 SDKs for Remote Config: Unity, Csharp, Javascript/Typescript, PHP, Python, Unreal Engine
 
-## Get started with Joystick Today
+## Get Started with Joystick Today
 
 - [Get an Account](https://app.getjoystick.com/onboarding)
 - [See all the Features](https://www.getjoystick.com/features)
