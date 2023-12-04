@@ -1,8 +1,8 @@
 ![joystick-cover-image-enlarged](https://github.com/getjoystick/.github/assets/127026916/a2bced52-7e61-4ffd-b2b5-2ba1fec8c73b)
 
-# Joystick - Modern Remote Configuration Platform
+# Joystick - A Modern App Operations and Remote Configuration Platform
 
-Joystick is a modern remote configuration platform tailored for apps and games. Empower your team with real-time adaptability, boost engagement and retention. Decentralize decision-making, iterate faster, and keep your audience captivated. Choose Joystick to fundamentally transform the way your team builds and operates.
+Joystick is a modern live-ops and remote configuration platform tailored for apps and games. Empower your team with real-time adaptability, boost engagement and retention. Take your iteration cycle time time from weeks down to hours, and keep your audience captivated. Choose Joystick today to fundamentally transform the way your team builds and operates.
 
 We put dynamic content and remote configs at your finger-tips with modern tools to manage versioning, multiple environments, schema protection, webhooks, change review, permissions, and much more.
 
@@ -19,7 +19,9 @@ We put dynamic content and remote configs at your finger-tips with modern tools 
 ## Supported Features
 
 - 📝 Full JSON: Go beyond feature flags. Use full JSON remote configs for content, data, flags or parameters.
-- 🔀 Multiple environments: natively multi-environment with easy to use sync and diff tools.
+- 🔠 Any Config Format: Any string format including JSON, XML, YAML, INI, plain text and more.
+- 📁 Asset Management: Manage your assets (banners, images, videos, Unity asset bundles, etc), serve them over CDN and reference them directly within your configs.
+- 🔀 Multiple Environments: natively multi-environment with easy to use sync and diff tools.
 - 🎯 Segmentation: Deliver different parameters depending on any custom segmentation. 
 - 🆎 AB Testing: AB test any parameter with consistent user bucketing; users can be in the same test groups across multiple tests.
 - ⏳ Staged Deployments: Rollout changes over time in increments as small as 0.1% of audience. 
