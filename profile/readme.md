@@ -2,7 +2,7 @@
 
 # Joystick - A Modern App Operations and Remote Configuration Platform
 
-Joystick is a modern live-ops and remote configuration platform tailored for apps and games. Empower your team with real-time adaptability, boost engagement and retention. Take your iteration cycle time time from weeks down to hours, and keep your audience captivated. Choose Joystick today to fundamentally transform the way your team builds and operates.
+Joystick is a [modern live-ops and remote configuration platform](https://www.getjoystick.com) tailored for apps and games. Empower your team with real-time adaptability, boost engagement and retention. Take your iteration cycle time time from weeks down to hours, and keep your audience captivated. Choose Joystick today to fundamentally transform the way your team builds and operates.
 
 We put dynamic content and remote configs at your finger-tips with modern tools to manage versioning, multiple environments, schema protection, webhooks, change review, permissions, and much more.
 
@@ -39,7 +39,6 @@ We put dynamic content and remote configs at your finger-tips with modern tools 
 
 ## Get Started with Joystick Today
 
-- [Get an Account](https://app.getjoystick.com/onboarding)
-- [See all the Features](https://www.getjoystick.com/features)
-- [API Docs and SDKs](https://docs.getjoystick.com)
+- [Get a Free Account](https://app.getjoystick.com/onboarding)
+- [Full Developers/API Docs and SDKs](https://docs.getjoystick.com)
 
