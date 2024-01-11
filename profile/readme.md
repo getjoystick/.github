@@ -10,6 +10,8 @@ We put dynamic content and remote configs at your finger-tips with modern tools 
 
 ## Don’t settle for waiting. Make changes and see it live in your app or game within seconds.
 
+![process-comparison-animation](https://github.com/getjoystick/.github/assets/127026916/13957eec-9d6f-4d7a-bb4c-3ee30e211e7c)
+
 - Push changes live instantly to any app, game or site, safely without code merges, builds and deploys.
 - Use full JSON. Go far beyond simple key:value pairs or feature flagging.
 - One REST API for all configuration content of your game or app.
